@@ -1,0 +1,76 @@
+{
+    "products": [
+      {
+        "image": "1.jpg",
+        "name": "Xiaomi",
+        "price": 9990,
+        "article": "T1",
+        "available": true,
+        "category": "Телефоны"
+      },
+      {
+        "image": "2.jpg",
+        "name": "Xiaomi",
+        "price": 11990,
+        "article": "T2",
+        "available": true,
+        "category": "Телефоны"
+      },
+      {
+        "image": "3.jpg",
+        "name": "Realme",
+        "price": 11500,
+        "article": "T3",
+        "available": false,
+        "category": "Телефоны"
+      },
+      {
+        "image": "4.jpg",
+        "name": "Samsung",
+        "price": 12990,
+        "article": "T4",
+        "available": true,
+        "category": "Телефоны"
+      },
+      {
+        "image": "5.jpg",
+        "name": "Realme",
+        "price": 13990,
+        "article": "T5",
+        "available": false,
+        "category": "Телефоны"
+      },
+      {
+        "image": "6.jpg",
+        "name": "Xiaomi redmi",
+        "price": 10990,
+        "article": "T6",
+        "available": true,
+        "category": "Телефоны"
+      },
+      {
+        "image": "7.jpg",
+        "name": "Iphone 14",
+        "price": 109990,
+        "article": "T7",
+        "available": true,
+        "category": "Телефоны"
+      },
+      {
+        "image": "8.jpg",
+        "name": "Iphone 13",
+        "price": 99990,
+        "article": "T8",
+        "available": true,
+        "category": "Телефоны"
+      },
+      {
+        "image": "9.jpg",
+        "name": "Iphone 12",
+        "price": 90990,
+        "article": "T9",
+        "available": true,
+        "category": "Телефоны"
+      }
+    ]
+  }
